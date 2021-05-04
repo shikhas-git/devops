@@ -32,7 +32,7 @@ command: |
     chmod +x /bin/hadolint
 - save_cache:
 paths:
-- ~/.devops
+- ./devops
 key: v1-dependencies-{{ checksum "requirements.txt" }}
 
 # run lint!
