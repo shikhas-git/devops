@@ -39,7 +39,7 @@ jobs:
                     . venv/bin/activate
                     pwd
                     cd /root/repo/project-ml-microservice-kubernetes
-                    make lint
+                    sudo make lint
         
 workflows:
   default:
