@@ -1,4 +1,4 @@
-[![Omnitracs](https://circleci.com/gh/Omnitracs/devops.svg?style=shield)](https://circleci.com/gh/shikhas-git/devops)
+[![CircleCI](https://circleci.com/gh/shikhas-git/devops.svg?style=shield)](https://circleci.com/gh/shikhas-git/devops)
 
 
 ## Project Overview
