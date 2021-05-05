@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/shikhas-git/devops.svg?style=shield)](https://circleci.com/gh/shikhas-git/devops)
+[![CircleCI](https://circleci.com/gh/shikhas-git/devops.svg?style=svg)](https://circleci.com/gh/shikhas-git/devops)
 
 
 ## Project Overview
