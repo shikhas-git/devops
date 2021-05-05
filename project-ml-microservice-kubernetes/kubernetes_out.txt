@@ -3,3 +3,11 @@ demopredict-app-5d87957dd5-kqwrh   1/1     Running   0          36s
 Name of the Pod: demopredict-app-5d87957dd5-kqwrh
 Forwarding from 127.0.0.1:8090 -> 80
 Forwarding from [::1]:8090 -> 80
+
+ec2-user:~/environment/DevOps_Microservices/project-ml-microservice-kubernetes (master) $ ./make_prediction.sh
+Port: 8090
+{
+  "prediction": [
+    20.35373177134412
+  ]
+}
