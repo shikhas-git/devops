@@ -24,8 +24,9 @@ jobs:
                     # Install hadolint
                     pwd
                     wget -O hadolint https://github.com/hadolint/hadolint/releases/download/v1.16.3/hadolint-Linux-x86_64 &&\
-                    chmod +x /root/repo/project-ml-microservice-kubernetes/hadolint
+                    chmod +x hadolint
                     pwd
+                    ls -lrt
     
           - save_cache:
               paths:
