@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs)
+[![Omnitracs](https://circleci.com/gh/Omnitracs/devops.svg?style=svg)](https://circleci.com/gh/shikhas-git/devops)
 
 
 ## Project Overview
