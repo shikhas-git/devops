@@ -22,8 +22,8 @@ jobs:
                     cd /root/repo/project-ml-microservice-kubernetes
                     make install
                     # Install hadolint
-                    wget -O /bin/hadolint https://github.com/hadolint/hadolint/releases/download/v1.16.3/hadolint-Linux-x86_64 &&\
-                    chmod +x /bin/hadolint
+                    wget -O /root/repo https://github.com/hadolint/hadolint/releases/download/v1.16.3/hadolint-Linux-x86_64 &&\
+                    chmod +x /root/repo/hadolint
     
           - save_cache:
               paths:
