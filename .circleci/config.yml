@@ -24,7 +24,7 @@ jobs:
                     # Install hadolint
                     pwd
                     wget -O hadolint https://github.com/hadolint/hadolint/releases/download/v1.16.3/hadolint-Linux-x86_64 &&\
-                    sudo chmod +x hadolint
+                    chmod +x hadolint
                     pwd
                     ls -lrt
     
@@ -39,6 +39,7 @@ jobs:
                     . venv/bin/activate
                     pwd
                     cd /root/repo/project-ml-microservice-kubernetes
+                    ls -lrt
                     pwd
                     make lint
         
